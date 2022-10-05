@@ -1,0 +1,8 @@
+.idea
+Results/*.csv
+Results/*.txt
+Results/*.xlsx
+Results/Data Sets/*.xlsx
+Results/Plots/*.xlsx
+.DS_Store
+.Rproj.user
